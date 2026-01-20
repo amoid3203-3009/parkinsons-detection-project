@@ -6,7 +6,7 @@ This project aims to develop a Deep Learning prototype (LSTM) to detect Parkinso
 * **Scrum Master / AI Engineer:** Abdul Moeed Alam
 * **Data Lead:** Abdul Moeed Alam
 * **UI/UX Developer:** Pierre Gerard
-* **Bioinformatics Analyst** Pierre Gerard
+* **Bioinformatics Analyst:** Pierre Gerard
 * **Researcher:** Toufique
 * ## Repository Structure
 * `data/`: Contains raw and processed medical datasets.
