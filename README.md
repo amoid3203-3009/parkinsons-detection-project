@@ -135,6 +135,9 @@ Training parameters are calculated on training folds only to prevent data leakag
 
 Full reproduction instructions are documented in the FAIR report (Appendix of Ethics document).
 
+## Demo Video
+[Watch the demo]
+https://drive.google.com/file/d/1UuupjVsxX4tc0PH6zrKGbuYfHlCucMEq/view?usp=sharing
 ---
 
 ## References
